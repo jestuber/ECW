@@ -1,0 +1,31 @@
+.logo {
+  width:375px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
+#custom a{
+  color: #39b449;
+}
+
+img.left {
+  float: left;
+  margin: 0 15px;
+}
+
+
+
+
+/* set a max-width for horizontal fluid layout and make it centered */
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 780px;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 780px;
+}
+
+
