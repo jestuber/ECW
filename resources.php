@@ -21,11 +21,13 @@ echo $navbar;
 <div class="col-md-6">
 <h3>Websites &amp; News</h3>
 <li><a href="http://www.teamusa.org/USA-Weightlifting">USA Weightlifting</a></li>
+<li><strong><a href="http://washingtonweightlifting.com/">Washington Weightlifting</a></strong></li>
 <li><a href="http://www.iwf.net/">International Weightlifting Federation</a></li>
 <li><a href="http://www.olystats.com/">Olystats</a></li>
 <li><a href="http://www.allthingsgym.com/">All Things Gym</a></li>
 <h3>Forums</h3>
 <li><a href="http://www.pendlayforum.com/">Pendlay Forum</a></li>
+<li><a href="http://www.wlforums.com">Weightlifting Forums</a></li>
 <li><a href="http://www.reddit.com/r/weightlifting/">reddit weightlifting</a></li>
 </div>
 

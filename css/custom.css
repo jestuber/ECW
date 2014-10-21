@@ -8,6 +8,10 @@
   color: #39b449;
 }
 
+#custom li{
+  margin-left: 20px;
+}
+
 img.left {
   float: left;
   margin: 0 15px;
