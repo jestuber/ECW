@@ -20,6 +20,29 @@ echo $navbar;
 <h1>Blog</h1>
 <p>Thoughts and useful articles</p>
 
+<hr>
+<h2>Advanced Sports Performance Coach Certification</h2>
+<p>June 13-14, 2015
+<br>Crossfit Nine, Woodinville WA
+<br>Instructor: Michael Conroy
+<br>Contact: Keri Arvidson (425)466-0458 <a href="mailto:keri@crossfitnine.com">keri@crossfitnine.com</a>
+<br><strong>Register:</strong> <a href="http://secure.mycart.net/catalogs/catalog.asp?prodid=5226128">USA Weightlifting</a>
+</p> 
+<p> The Advanced Sports Performance Coach Course is the second course in the Coaching Education Program.
+    This course is applicable for those coaches seeking advanced knowledge to better themselves and their athletes. It is a requirement for weightlifting coaches seeking to attain the National Coach Rating.
+    All individuals who successfully complete the course requirements will receive the USA Weightlifting Advanced Sports Performance Coach Certificate. Advanced Sports Performance Coaches that successfully complete the background check and Athlete Performance requirements will receive the USA Weightlifting National Coach Rating.
+    The scope and sequence of this course is to provide formal instruction in the areas of: </p>
+<li>Advanced Strength and Power Principles</li>
+<li>Advanced Biomechanical Principles of Weightlifting</li>
+<li>Advanced Program Design Application</li>
+<li>Anatomy, Physiology and Kinesiology as it relates to Weightlifting</li>
+<li>Application of Long Term Athletic Development for Weightlifters</li>
+<li>Coaching Principles</li>
+<li>National and International Competition Preparation</li>
+<li>Nutrition; Daily Regime and Phases</li>
+<li>Skill Acquisition of Athletes</li>
+<li>Sports Psychology for Weightlifting</li>
+
 
 <hr>
 <h2>MA Strength Chinese Weightlifting Clinic</h2>
