@@ -20,7 +20,7 @@ echo $navbar;
 <h1>Classes</h1>
 <h3>Open Gym</h3>
 <p>Regular open group session. In the interest of safety, we recommend clients wishing to attend these class times demonstrate a working knowledge of the Olympic lifts or attend an introduction session before attending the open group sessions.</p>
-<blockquote><strong>Tuesday / Wednesday / Friday 5p - 8p<br />Sunday 12p - 4p</strong></blockquote>
+<blockquote><strong>Tuesday / Wednesday / Friday 4p - 8p<br />Sunday 12p - 4p</strong></blockquote>
 
 <h3>Introduction to Olympic Weightlifting</h3>
 <p>We are currently creating a curriculum that will allow us to offer a safe, fun introduction to the sport of Olympic-weightlifting.  If you are interested in signing up for this course, please <a href="mailto:emeraldcityweightlifting@gmail.com">Contact Us</a>.  We will soon be offering this course on a regular basis.</p>
